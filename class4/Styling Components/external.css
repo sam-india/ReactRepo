@@ -1,0 +1,16 @@
+.text-danger{
+    color: red;
+    font-size: 32px;
+    font-style: italic;
+}
+
+.text-success{
+    color: green;
+    font-size: 32px;
+    font-style: italic;
+}
+
+.text-special{
+    text-decoration: dashed;
+    font-weight: bold;
+}
